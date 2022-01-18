@@ -35,6 +35,7 @@ fascinated</b>
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=rails)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=Typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
