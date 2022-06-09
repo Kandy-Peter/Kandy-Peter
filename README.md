@@ -1,16 +1,22 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/80612925?s=400&u=8459b3e047a439eda3a81750e22c170487d33329&v=4" height="300" width="300"/></p><hr><h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" hegight="30px">, I'm Kandy kamuntu PETER</h1><h3 align="center">Software Developer</h3><p align="center"><a href="https://www.linkedin.com/in/kandi-peter-a49590212/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/kandypierre.kamuntu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/peter_kandy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: kandypeter03@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/80612925?s=400&u=8459b3e047a439eda3a81750e22c170487d33329&v=4" height="300" width="300"/></p><hr>
 
-<p align="center">
-  <em>always <b>
-fascinated</b>
-    about new challenges to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  
-</p>
-<br>
+# 👋 Welcome to Kandy Peter world! 😊
+
+## A little more about myself
+
+<h3>I am a passionate full-stack software developer who enjoys working on all kinds of tech.</h3>
+
+- I’m currently available for hire or open to new job opportunities
+
+- 👯 I’m looking to collaborate on **Software Development Projects**
+
+- 🦾 I'm a problem solver and fast learner with good communication skills
+
+- 💬 Ask me about **Software Development**
+
+- ⚡ I like 👨‍💻 : Programming | ♟️ : chess | ☕: Coffee | 📖: books <hr>
+
+<h3 align="center">Software Developer</h3><p align="center"><a href="https://www.linkedin.com/in/kandi-peter-a49590212/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a><a href="https://www.facebook.com/kandypierre.kamuntu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a><a href="https://twitter.com/peter_kandy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash_chowrasia" height="30" width="40" /></a><a href = "mailto: kandypeter03@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a></p>
 
 <p align="center">&nbsp;
  
