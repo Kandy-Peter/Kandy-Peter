@@ -60,3 +60,7 @@
 🤓 **Interested:** <br>
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=764ABC&labelColor=ffffff)
+![Postgres](https://img.shields.io/badge/-Postgres-000000?style=flat&logo=postgres&labelColor=ffffff)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
